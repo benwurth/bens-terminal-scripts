@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/feanor93/.vimrc'
+let g:netrw_dirhist_2='/Users/feanor93/PycharmProjects/logarhythm02project/.vagrant'
+let g:netrw_dirhist_3='/Users/feanor93/.zprezto'
+let g:netrw_dirhist_4='/Users/feanor93/.zprezto/modules/prompt/external/agnoster'
+let g:netrw_dirhist_5='/Users/feanor93/Documents/Coding/tutorials/reactjs_tutorial/react-tutorial-master'
+let g:netrw_dirhist_6='/Users/feanor93/Documents'
+let g:netrw_dirhist_7='/private/var/folders/lz/rvyczhyj7vn3fnlscmz1xzsr0000gn/T/4b042d8e-3fa1-4489-8c5e-ba0bde7b159d/home/c9773248219253/html/wp-content/themes/monstroid'
