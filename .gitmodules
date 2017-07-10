@@ -1,4 +1,4 @@
-[submodule ".vim/bundle/Vundle.vim/"]
+[submodule ".vim/bundle/Vundle.vim"]
 path = .vim/bundle/Vundle.vim
 url = https://github.com/benwurth/Vundle.vim
 [submodule ".vim/bundle/YouCompleteMe"]
